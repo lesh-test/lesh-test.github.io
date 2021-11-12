@@ -15,9 +15,8 @@
 ### <i><b>lang<i><b>
 ><img src="https://img.shields.io/badge/Html-e34c26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Css-157EB6?style=flat-square&logo=CSS3&logoColor=white"/>
 
-### <i><b>Freamwork<b><i>
->bootstrap
->
+### <i><b>Framework<b><i>
+><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
 
 ###### 2021.11.11 start
 <!--add some date that when you start your project and end the project-->
