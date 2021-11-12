@@ -37,11 +37,19 @@ body {
     }
 }
 
-.card { /* 한줄에 네 카드씩 */
+.card {
     transition: all 0.3s;
 }
 
-.card:hover { /* 마우스 오버 설정은 상의 후 결정 */
+.card:hover { 
     transform: translateY(-10px);
     box-shadow: 2px 2px 10px #999;
 }
+
+@media (min-width: 320px){
+    .row {
+        display: inline;
+        background-color: red;
+    }
+}
+
