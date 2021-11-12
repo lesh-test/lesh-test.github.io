@@ -50,5 +50,10 @@ body {
     .row {
         display: inline;
     }
+
+    .card {
+        top: 20px;
+        bottom: 20px;
+    }
 }
 
