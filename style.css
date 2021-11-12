@@ -49,7 +49,6 @@ body {
 @media (min-width: 320px){
     .row {
         display: inline;
-        background-color: red;
     }
 }
 
